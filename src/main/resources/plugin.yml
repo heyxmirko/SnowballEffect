@@ -1,0 +1,4 @@
+name: SnowballEffect
+version: '${project.version}'
+main: me.heyxmirko.snowballeffect.SnowballEffect
+api-version: 1.20
